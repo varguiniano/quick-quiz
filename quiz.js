@@ -26,7 +26,7 @@
 
 
         // list of questions to insert into quiz
-        var questions = getRandomSubarray(quiz_opts.questions, 2);
+        var questions = getRandomSubarray(quiz_opts.questions, 20);
 
         // keep track of the state of correct
         // answers to the quiz so far

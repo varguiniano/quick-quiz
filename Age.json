@@ -1,0 +1,331 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Nunca.",
+        "Siempre.",
+        "Cuando hayan prestado servicios efectivos exclusivamente durante un periodo mínimo de 5 años inmediatamente anteriores.",
+        "Salvo si la ley de la función pública establece otro periodo inferior, si ha prestado servicios efectivos durante un periodo de 5 años inmediatamente anteriores."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 1,
+      "prompt": "Cuándo podrán los funcionarios de carrera obtener la excedencia voluntaria por interés particular?"
+    },
+    {
+      "answers": [
+        "Excedencia por interés particular, excedencia voluntaria por agrupación familiar, excedencia voluntaria por cuidado de familiares y excedencia por razón de violencia de género.",
+        "Excedencia votuntaria por interés particular, excedencia voluntaria por agrupación familiar, excedencia por cuidado de familiares y excedencia por razón de violencia de género.",
+        "Excedencia voluntaria por interés particular, excedencia voluntaria por agrupación familiar, excedencta por cuidado de familiares y excedencia por razón de violencia machista.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Qué modalidades de excedencia de los funcionarios de carrera se recogen en el Estatuto Básico del Empleado Público EBEP?"
+    },
+    {
+      "answers": [
+        "se estabtece en 15 miembros.",
+        "no podrá superar 20 miembros.",
+        "no podrá superar 15 mlembros.",
+        "Ninguna es correcta."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "En el EBEP se establece la composición numérica de las Mesas de Negociación como máximo este número?"
+    },
+    {
+      "answers": [
+        "principlo de legalidad, tipicidad, culpabilidad.",
+        "principio de irretroactividad de las disposiciones sancionadoras no favorables, culpabilidad y jerarquía.",
+        "principio de retroactividad de las disposiciones favorables al presunto infractor, presunción de inocencia.",
+        "todos los anteriores son principlos de la potestad disciplinaria."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 4,
+      "prompt": "Dígase cuál de esta combinación de principios es incorrecta en relación al ejercicio de la potestad disciplinaria de acuerdo con el art. 94 EBEP."
+    },
+    {
+      "answers": [
+        "Título II (Clases de personal al servicio de las AP).",
+        "Capítulo V (Derecho a la jornada de trabajo, permisos y vacaciones) del Título III.",
+        "Capítulo III ( Provisión de puestos de trabajo y movilidad) del Título V.",
+        "Todos son directamente aplicables al tratarse de norma básica."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 5,
+      "prompt": "¿Cuáles de estos capítulos o títulos del EBEP no son directamente aplicables, y por tanto producen efectos a partir de la entrada en vigor de la LFP?"
+    },
+    {
+      "answers": [
+        "El incumplimiento de las funciones esenciales inherentes al puesto de trabajo.",
+        "La adópoción de acuerdos llegales que causen perjuicio grave a los cludadanos.",
+        "El acoso por razón de vecindad. ",
+        "Todas las anterlores son falsas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 6,
+      "prompt": "Constituye una falta disciplinaria muy grave:"
+    },
+    {
+      "answers": [
+        "Deberá ser cesado cuando pase un año desde que comenzó la relación laboral. ",
+        "Deberá ser cesado cuando se relntegre el titular ordinario del puesto.",
+        "Deberá ser cesado cuando tome posesión el titular ordinario del puesto.",
+        "Podrá ser cesado-en cualquier momento por la autoridad que los haya nombrado."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 7,
+      "prompt": "SEÑALE LA PROPOSICION INCORRECTA RESPECTO AL PERSONAL INTERINO:"
+    },
+    {
+      "answers": [
+        "Por traslados de residencia.",
+        "Por las comisiones de servicios.",
+        "Por los desplazamientos dentro del término municipal por razón del servicio.",
+        "Todas las respuestas son correctas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 8,
+      "prompt": "Como funcionario. de la Ad. Gral. de la J.A. vd. debe conocer en cual de los siguientes casos tendrá derecho a recibir una indemnización:"
+    },
+    {
+      "answers": [
+        "Formalizarse.",
+        "Declararse.",
+        "Hacerse efectivos.",
+        "Todas son correctas."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 9,
+      "prompt": "Los derechos de carácter económicos del personal, derivados de cualquiera de los actosprevistos en el Art. 14 del Reglamento del R.G.P., no podrán sin La previa inscripción del acto correspondiente: "
+    },
+    {
+      "answers": [
+        "Al Derecho Común.",
+        "Al Derecho Laboral.",
+        "Al Derecho Administrativo.",
+        "Al Derecho Adtvo. especial."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 10,
+      "prompt": "Si Ud. forma parte del personal laboral al servicio de la Ad. de la J.A. ¿A qué régimen jurídico estará sometido? "
+    },
+    {
+      "answers": [
+        "A los dos años desde que la falta se produce.",
+        "A los dos meses desde que la falta se produce.",
+        "A los seis meses desde que la falta se produce.",
+        "Al año desde que la l falta se produce."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 11,
+      "prompt": "La prescripción de una falta leve se produce:"
+    },
+    {
+      "answers": [
+        "Nunca durará más de seis meses.",
+        "Seis meses, salvo paralización del procedimiento disciplinario imputable al interesado.",
+        "Tres meses.",
+        "Un mes."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 12,
+      "prompt": "La suspensión provisional en el marco de un procedimiento disciplinario no podrá exceder de:"
+    },
+    {
+      "answers": [
+        "Representantes (Rptes) de la Admon Gral del E, Rptes de las Comunidades Autónomas (CCAA), Rptes de las cludades autónomas de Ceuta y Melilla y Rptes de la Admon local.",
+        "Rptes de la Admon Pública del E., Rptes de las CCAA, Rptes de las ciudades autónomas de Ceuta y Melilla y Rptes de la Admon local.",
+        "Ninguna de las anteriores es correcta.",
+        "Todas las anteriores son correctas."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 13,
+      "prompt": "¿Quiénes componen la Conferencia Sectorial de Administración Pública?"
+    },
+    {
+      "answers": [
+        "Establecer las bases del régimen estatutario de los funcionarios públicos incluidos en su ámbito de aplicación. ",
+        "Determinar las normas aplicables al personal laboral al servicio de las AAPP.",
+        "A y B son clertas. ",
+        "Solo A es cierta."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 14,
+      "prompt": "El EBEP tiene por objeto"
+    },
+    {
+      "answers": [
+        "Servicio a los ciudadanos y a los intereses de las AAPP.",
+        "Igualdad, mérito y capacidad en el acceso y en la formación profesional. ",
+        "Sometimiento pleno a la ley y al derecho.",
+        "Todos son fundamentos de actuación del EBEP."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 15,
+      "prompt": "Se recogen, en el art 3 del EBPE, entre otros, los siguientes fundamentos de actuación"
+    },
+    {
+      "answers": [
+        "Igualdad de trato entre hombres y mujeres.",
+        "Objetividad, profesionalidad e imparcialidad en el servicio garantizadas conla inamovildad en la condición de funcionario de carrera.",
+        "Transparencia en planificación y la gestión de recursos humanos. ",
+        "Todas constituyen fundamento de actuación del EBEP."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 16,
+      "prompt": "No se menciona como fundamento de actuación en el EBEP"
+    },
+    {
+      "answers": [
+        "Se rige por la legislación estatal que resulte de aplicación, de la que forma parte el EBEP y por la legislación de las CCAA, con respeto a la autonomía local.",
+        "Los cuerpos de la Policía Local se rigen también por el EBEP y por la legislación de las CCAA, excepto en lo establecido para ellos en la LO 2/ 1986 de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.",
+        "A y B son ciertas.",
+        "Sólo es clerta A, pues a la Policía Local no se le aplica el EBEP. "
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 17,
+      "prompt": "En cuanto al personal funcionario de las entidades locales"
+    },
+    {
+      "answers": [
+        "Personal Militar de las Fuerzas Armadas. ",
+        "Personal retribuido por arancel. ",
+        "Personal del Centro Naclonal de Inteligencia. ",
+        "Personal de la Socledad Estatal Correos y Telégrafos."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 18,
+      "prompt": "Se regirán por sus normas específicas y supletoriamente por este EBEP"
+    },
+    {
+      "answers": [
+        "Personal funcionario de las Cortes Generales y de las Asambleas Legislativas de las CCAA.",
+        "Personal funcionario de los demás Organos Constitucionales del Estado y de los Órganos Estatutarios de las CC.AA.",
+        "Personal del Banco de España Y Fondos de Garantía de Depósitos en Entidades de Crédito. ",
+        "Todas son ciertas, y hay que añadir el Personal retribuido por arancel, el Personal Militar de las Fuerzas Armadas, el Personal de las Fuerzas y Cuerpos de Seguridad y el Personal del Centro Nacional de Inteligencia."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 19,
+      "prompt": "Las disposiciones de este EBEP sólo se aplicarán directamente cuando así lo disponga su legislación específica al siguente personal."
+    },
+    {
+      "answers": [
+        "Criterios generales sobre OEP.",
+        "Criterios generales sobre la planificación estrtégica de los RRHH.",
+        "Determinación de las condiciones de trabajo del personal directivo.",
+        "Las que afecten a las condiciones de trabajo de los funcionarios cuya regulación exija norma con rango de ley."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 20,
+      "prompt": "¿Qué materias están excluidas de la obligatoriedad de la negociación colectiva?"
+    },
+    {
+      "answers": [
+        "Personal funcionario de las Cortes Generales y de las Asambleas Legislativas de las Comunidades Autónomas. ",
+        "Jueces, Magistrados, Fiscales y demás personal funcionario al servicio de la Administración de Justicia. ",
+        "Personal de las Fuerzas y Cuerpos de Seguridad.",
+        "Todas las respuestas son correctas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 21,
+      "prompt": "Las disposiciones de este Estatuto sólo se aplicarán directamente cuando así lo disponga su legislación específica al siguiente personal"
+    },
+    {
+      "answers": [
+        "se regirá por sus normas específicas y supletorlamente por lo dispuesto en este Estatuto.",
+        "se regirá por lo dispuesto en este estatuto y supletoriamente por sus normas específicas.",
+        "se regirá por lo dispuesto en este estatuto.",
+        "se regirá por sus normas específicas."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 22,
+      "prompt": "El personal funcionario de la Sociedad Estatal Correos y Telégrafos: "
+    },
+    {
+      "answers": [
+        "funcionarios de carrera y personal laboral.",
+        "funcionarios de carrera y funcionarios interinos.",
+        "funcionarios de carrera, personal laboral, personal eventual y funcionarios interinos.",
+        "funcionarios de carrera, personal laboral, personal eventual y personal interino."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 23,
+      "prompt": "Los empleados públicos se clasifican en:"
+    },
+    {
+      "answers": [
+        "Es aquel que, en virtud de nombramiento, y con carácter no permanente, realiza, entre otras, funciones expresamente calificadas como de confianza o asesorámiento especial. ",
+        "El EBEP determina los órganos de gobierno de las AAPP que podrán disponer de este tipo de personal. ",
+        "La condición de personal eventual no podrá constitulr mérito para el acceso a la función pública o para la promoción interna. ",
+        "Todas son ciertas."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 24,
+      "prompt": "En relación al personal eventual"
+    },
+    {
+      "answers": [
+        "Su designación atenderá a principlos de mérito y capacidad y a criterios de idoneidad. ",
+        "Su designación se llevará a cabo mediante procedimientos que garanticen la publicidad y la concurrencia. ",
+        "Estará este pérsonal sujeto a evaluación con arreglo a los críterlos de eficiencia y economía. ",
+        "La determinación de las condiclones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva a los efectos del EBEP."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 25,
+      "prompt": "En relación al personal directivo profesional señalar raspuesta falsa."
+    }
+  ],
+  "title": "AGE",
+  "url": " http://rodrigovarga.com/tests/AgeTest.html"
+}
