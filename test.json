@@ -1,0 +1,45 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Nunca.",
+        "Siempre.",
+        "Cuando hayan prestado servicios efectivos exclusivamente durante un periodo mínimo de 5 años inmediatamente anteriores.",
+        "Salvo si la ley de la función pública establece otro periodo inferior, si ha prestado servicios efectivos durante un periodo de 5 años inmediatamente anteriores."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 1,
+      "prompt": "Cuándo podrán los funcionarios de carrera obtener la excedencia voluntaria por interés particular?"
+    },
+    {
+      "answers": [
+        "Excedencia por interés particular, excedencia voluntaria por agrupación familiar, excedencia voluntaria por cuidado de familiares y excedencia por razón de violencia de género.",
+        "Excedencia votuntaria por interés particular, excedencia voluntaria por agrupación familiar, excedencia por cuidado de familiares y excedencia por razón de violencia de género.",
+        "Excedencia voluntaria por interés particular, excedencia voluntaria por agrupación familiar, excedencta por cuidado de familiares y excedencia por razón de violencia machista.",
+        "Ninguna de las anteriores es correcta."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 2,
+      "prompt": "Qué modalidades de excedencia de los funcionarios de carrera se recogen en el Estatuto Básico del Empleado Público EBEP?"
+    },
+    {
+      "answers": [
+        "se estabtece en 15 miembros.",
+        "no podrá superar 20 miembros.",
+        "no podrá superar 15 mlembros.",
+        "Ninguna es correcta."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 3,
+      "prompt": "En el EBEP se establece la composición numérica de las Mesas de Negociación como máximo este número?"
+    }
+  ],
+  "title": "AGE",
+  "url": " http://localhost"
+}

@@ -16,7 +16,8 @@ html, body {
 
 .quiz-answers {
   text-align: center;
-  width: 250px;
+  max-width: 500px;
+  width: auto;
   margin: 0 auto;
   display: block;
   padding-bottom: 5px;
@@ -35,10 +36,10 @@ html, body {
   margin-top: 10px;
   background-color: #ddd;
   border-radius: 0;
-  text-transform: uppercase;
+  text-align: justify;
   white-space: normal !important;
-  max-width: 250px;
-  width: 250px;
+  max-width: 500px;
+  width: auto;
 }
 
 .quiz-button.btn:hover {
