@@ -14,7 +14,7 @@ Console.WriteLine("Parsing to quiz class...");
 
 var quiz = new Quiz();
 
-Question currentQuestion = null;
+Question? currentQuestion = null;
 int currentAnswerIndex = 0;
 
 foreach (var data in File.ReadLines(args[0]))
@@ -22,6 +22,8 @@ foreach (var data in File.ReadLines(args[0]))
     var line = data.TrimStart(' ');
 
     if (line.StartsWith("//")) continue;
+
+    if (line.StartsWith("$$$")) break;
 
     if (line.StartsWith("url: "))
     {
@@ -35,7 +37,7 @@ foreach (var data in File.ReadLines(args[0]))
 
     if (Regex.IsMatch(line, @"[0-9]+\)\s+.+"))
     {
-        if (currentQuestion != null) quiz.questions.Add(currentQuestion);
+        quiz.AddQuestion(currentQuestion);
 
         currentQuestion = new Question
         {
@@ -51,7 +53,7 @@ foreach (var data in File.ReadLines(args[0]))
         currentQuestion.answers.Add(Regex.Replace(line, @"\-\s+", ""));
         currentAnswerIndex++;
     }
-    
+
     if (Regex.IsMatch(line, @"\*\s+.+"))
     {
         currentQuestion.answers.Add(Regex.Replace(line, @"\*\s+", ""));
@@ -60,7 +62,7 @@ foreach (var data in File.ReadLines(args[0]))
     }
 }
 
-if (currentQuestion != null) quiz.questions.Add(currentQuestion);
+quiz.AddQuestion(currentQuestion);
 
 Console.WriteLine("Generated class with " + quiz.questions.Count + " questions.");
 Console.WriteLine("Parsing to json and writing to " + args[1] + "...");

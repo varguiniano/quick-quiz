@@ -5,7 +5,7 @@ public class Question
 {
     public List<string> answers = new();
 
-    public Correct correct;
+    public Correct? correct;
 
     public int number;
 
