@@ -1936,6 +1936,656 @@
       },
       "number": 150,
       "prompt": "¿Quién esta legitimado para suspender o modificar el cumplimiento de los pactos y acuerdos ya firmados?"
+    },
+    {
+      "answers": [
+        "Comités de empresa y juntas de personal.",
+        "Juntas de personal y delegados de personal.",
+        "Delegados de personal y comités de empresa.",
+        "Delegados de personal, juntas de personal y comités de empresa."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 151,
+      "prompt": "Los órganos específicos de representación de los funcionarios son:"
+    },
+    {
+      "answers": [
+        "Igual o superior a 10 e inferior a 50.",
+        "Igual o superior a 10 e inferior a 49",
+        "Igual o superior a 6 e inferior a 50.",
+        "Igual o supelor a 7 e inferior a 50."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 152,
+      "prompt": "Corresponde a los delegados de personal la representacion de las unidades electorales donde el numero de funcionarios sea:"
+    },
+    {
+      "answers": [
+        "Un censo mínimo de 49 funcionarios.",
+        "Un censo mínimo de 50 funcionarios.",
+        "Un censo mínimo de 51 funcionarios.",
+        "Un censo mínimo de 75 funcionarios."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 153,
+      "prompt": "Las juntas de personal se constituirán en unidades electorales que cuenten con:"
+    },
+    {
+      "answers": [
+        "Al menos dos tercios de sus miembros.",
+        "Al menos una cuarta parte de sus miembros.",
+        "Al menos las tres quintas partes de sus miembros.",
+        "Al menos la mayoría simple de sus miembros."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 154,
+      "prompt": "En las juntas de personal, el reglamento y sus modificaciones deberán ser aprobados por los votos favorables:"
+    },
+    {
+      "answers": [
+        "Tres años.",
+        "Cuatro años.",
+        "Cinco años.",
+        "Dos años."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 155,
+      "prompt": "El mandato de los miembros de las juntas de personal y delegados de gobierno sera de:"
+    },
+    {
+      "answers": [
+        "En ningun caso.",
+        "Sí, en cualquier caso.",
+        "Sí, por acuerdo mayoritario.",
+        "Solo pueden promoverlas las organizaciones sindicales."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 156,
+      "prompt": "Pueden los funcionarios de una unidad electoral promover la celebracion de elecciones para juntas de personal y delegados de personal:"
+    },
+    {
+      "answers": [
+        "Mediante listas cerradas a través de sistema mayoritario.",
+        "Mediante listas abiertas a través de un sistema proporcional corregido.",
+        "Mediante listas abiertas a través de sistema igualitario.",
+        "Mediante listas cerradas a través de un sistema proporcional corregido."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 157,
+      "prompt": "Las juntas de personal se elegirán:"
+    },
+    {
+      "answers": [
+        "Los funcionarios que se encuentren en situación de servicio activo.",
+        "Los funcionarios que ocupen puestos nombrados por real decreto o decreto de los consejos de Gobierno de las comunidades autónomas y las ciudades de Ceuta y Melilla.",
+        "Son correctas a y b.",
+        "Es correcta la respuesta b."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 158,
+      "prompt": "No tendrán la consideración de electores ni elegibles para la elección de las juntas de personal y delegados de personal:"
+    },
+    {
+      "answers": [
+        "Los delegados de personal.",
+        "Los delegados de personal y juntas de personal.",
+        "Las juntas de personal y comités de empresa.",
+        "Los delegados de personal, las juntas de personal y los comités de empresa."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 159,
+      "prompt": "Están legitimados para convocar una reunión, ademas de las organizaciones sindicales, directamente o a través de los delegados sindicales:"
+    },
+    {
+      "answers": [
+        "Los empleados públicos de las administraciones respectivas en número no inferior al 65 por 100 del colectivo convocado.",
+        "Los empleados públicos de las administraciones respectivas en número no inferior al 40 por 100 del colectivo convocado.",
+        "Los empleados públicos de las administraciones respectivas en número no inferior al 50 por 100 del colectivo convocado.",
+        "Los empleados públicos de las administraciones respectivas en número no inferior al 25 por 100 del colectivo convocado."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 160,
+      "prompt": "Támbien están legitimados para convocar una reunión:"
+    },
+    {
+      "answers": [
+        "La jornada de trabajo podrá ser a tiempo completo o a tiempo parcial.",
+        "Por traslado de domicilio sin cambio de residencia se tendrá derecho a una reducción del 50 por 100 de la jornada de trabajo.",
+        "Para la realizacion de exámenes prenatales y técnicas de preparación al parto las funcionarias embarazadas.",
+        "Por lactancia de un hijo menor de 12 meses tendrá derecho a una hora de ausencia del trabajo."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 161,
+      "prompt": "Indique cuál de las siguientes afirmaciones es falsa en relación a los permisos de los funcionarios públicos:"
+    },
+    {
+      "answers": [
+        "Por fallecimiento, accidente o enfermedad grave de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando sea en la misma localidad.",
+        "Por fallecimiento, accidente o enfermedad gfave de un familiar dentro del primer grado de consanguinidad o afinidad, seis días hábiles cuando sea en distinta localidad.",
+        "Por fallecimiento, accidente o enfermedad grave de un famillar dentro del segundo grado de consanguinidad o afinidad, dos días hábiles cuando sea en la misma localidad.",
+        "Por fallecimiento, accidente o enfermedad grave de un familiar dentro del segundo grado de consanguinidad o afinidad, cuatro días hábiles cuando sea en distinta localidad."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 162,
+      "prompt": "Indique cuál de las siguientes afirmaciones es falsa en relación a los permisos de los funcionarios públicos:"
+    },
+    {
+      "answers": [
+        "El permiso por lactancia de un hijo menor de 12 meses ha de ser disfrutado necesariamente por la madre funcionaria, aunque los dos progenitores esten trabajando.",
+        "La funcionaria podrá solicitar la sustitución del tiempo de lactancia por un permiso no retribuido que acumule en jornadas completas el tiempo correspondiente.",
+        "Por lactancia la reduccion de la Jornada ha de ser necesarlamente en media hora al inicio y al final de la jornada.",
+        "El permiso d de lactancia se incrementará proporconalmente en los casos de parto múltiple."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 163,
+      "prompt": "Indique cuál de las siguientes afirmaciones es cierta en relación a los permisos de los funcionarios públicos:"
+    },
+    {
+      "answers": [
+        "Por asuntos particulares se tendrá derecho a seis días.",
+        "Por el cuidado de un familiar de primer grado, derecho a solicitar una reduccion de hasta el veinticinco por ciento de la jornada laboral, con caracter retribuido.",
+        "El anterior derecho no podrá exceder el plazo máximo de un mes.",
+        "Por razones de guarda legal, cuando el funcionario tenga a su cargo directo algun menor de 12 años, persona mayor que requiera especial atención, o persona discapacitada que no desempeñe actividad retribulda, tendrá derecho a la reduccion de su jornada de trabajo, con la correspondlente disminución de retribuciones."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 164,
+      "prompt": "Indique cuál de las siguientes afirmaciones es falsa en relación a a los permisos de los funcionarios públicos:"
+    },
+    {
+      "answers": [
+        "Durante un máximo de tres horas diarias percibiendo las retribuciones íntegras.",
+        "Durante un máximo de dos horas diarias percibiendo las retribuciones íntegras.",
+        "Durante un máximo de tres horas diarias sin derecho a retribución de las mismas.",
+        "Durante un máximo de dos horas diarias sin derecho a retribucion de las mismas."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 165,
+      "prompt": "Por nacimiento de hijos prematuros o que por cualquier otra causa deban permanecer hospitalizados después del parto, la funcionaria o el funcionario tiene derecho a ausentarse del trabajo:"
+    },
+    {
+      "answers": [
+        "Se produzaca el cese de la autoridad que lo haya nombrado.",
+        "Se produzca el cese de la autoridad a la que se preste la función de confianza o asesoramiento.",
+        "En los casos de a y b.",
+        "Es libre, y también lo dicho en b."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 166,
+      "prompt": "El cese del personal eventual tendrá lugar en todo caso cuando:"
+    },
+    {
+      "answers": [
+        "Personal laboral a efectos del presente estatuto.",
+        "Personal funcionario a efectos del presente estatuto.",
+        "No está comprendido en este estatuto.",
+        "No esta comprendido en este estatuto, pero es personal funcionario."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 167,
+      "prompt": "El personal estatutario de los servicios de salud es:"
+    },
+    {
+      "answers": [
+        "Mediante CV de Conferencia Sectorial se establecerán los contenidos mínimos comunes de los Registros de Personal y los criterios que permitan el intercambio homogéneo de la información entre Admones.",
+        "Las Admones Públicas impulsarán la gestión integrada de recursos humanos.",
+        "Cuando las Entidades Locales no cuenten con la suficiente capacidad financiera o técnica, la AGE y las CCAA cooperarán con aquellas a los efectos de mencionados en A y B.",
+        "Excepcionalmente los Registros podrán disponer también de la información agregada sobre los restantes recursos humanos de su respectivo sector público."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 168,
+      "prompt": "Con respecto a los registros de personal, es falso que..."
+    },
+    {
+      "answers": [
+        "Las Admones Públicas estructuran sus recursos humanos de acuerdo con las normas que regulan la selección, promoción profesional, la movilidad y la distribución de funciones.",
+        "Los empleados públicos tienen derecho al desempeño de un puesto de trabajo de acuerdo con el sistema de estructuración del empleo público que establezcan las leyes de desarrollo del presente estatuto.",
+        "En cualquier caso, y por razones de urgencia, las Admones Públicas podrán asignar a su personal funciones, tareas o resonsabllidades distintas a las correspondientes a su puesto de trabajo.",
+        "Los puestos de trabajo podrán agruparse en función de sus caracteristicas para ordenar la selección, la formación y la movildad."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 169,
+      "prompt": "En relación a la estructuración del empleo público es falso que..."
+    },
+    {
+      "answers": [
+        "Los funcionarlos se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades, y conocimientos comunes acreditados a través de un proceso selectivo.",
+        "Los cuerpos y escalas de fucionarios se crean, modifican y suprimen por Ley de Cortes Generales.",
+        "También, dichos cuerpos y escalas se podrán crear, modificar o suprimir por ley de las Asambleas Legislativas de las CCAA.",
+        "Se podrá autorizar en determinados casos, por Ley de Cortes, al Gobierno, para que cree, modifique o derogue dichos cuerpos y escalas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 170,
+      "prompt": "Señalar respuesta falsa."
+    },
+    {
+      "answers": [
+        "Grupo A, dividido en Al y A2 (SUBGRUPOS).",
+        "Grupo B.",
+        "Grupo C, dividido en dos subgrupos, Cl y C2.",
+        "Todas son ciertas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 171,
+      "prompt": "Los Cuerpos y Escalas se clasifican en los siguientes grupos, de acuerdo con la titulación exigida par su ingreso."
+    },
+    {
+      "answers": [
+        "Las Admones Públicas proveerán los puestos de trabajo mediante procedimientos basados en los pp de igualdad, mérito y capacidad.",
+        "La provisión de puestos de trabajo en tada Admón Pública se llevará a cabo por los procedimientos de concurso y libre designación con convocatoria pública.",
+        "Las Leyes de Función Pública que se dicten en desarrollo de este EBEP podrán establecer otros procedimientos de provisión en los supuestos de movilidad del art 81.2, permutas entre puetos de trabajo, movilidad por motivos de salud, rehabilitación del funcionario, reingreso al servicio activo, cese o remoción en los puestos de tabajo y supresión de los mismos.",
+        "El concurso es el procedimiento normal de provisión de puestos de trabajo."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 172,
+      "prompt": "Señalar respuesta falsa o incompleta."
+    },
+    {
+      "answers": [
+        "Consistirá en la valoración de los méritos y capacidades y, en su caso, aptitudes de los candidatos por órganos colegiados de carácter técnico.",
+        "La composición de éstos órganos responderá al principio de imparcialidad y objetividad.",
+        "Su funcionamiento se ajustará a las reglas de profesionalidad y especialización.",
+        "Todas son ciertas."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 173,
+      "prompt": "En relación al concurso de provisión de los puestos de trabajo del personal funcionario de carrera..."
+    },
+    {
+      "answers": [
+        "La libre designación con convocatoria pública consiste en la apreciación disrecional por el órgano. competente de la idoneidad de los candidatos en relación con los requisitos exigidos para el desempeño del puesto.",
+        "Las Leyes de Función Pública que se dicten en desarrollo del presente estatuto establecerán los criterios ara determinar los puestos que por su especial responsabllidad y confianza puedan cubrirse por este procedimiento.",
+        "El órgano competente para el nombramiento deberá recabar la intervención de especialistas que permitan apreciar la idoneldad de los candidatos.",
+        "Solo A y B son ciertas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 174,
+      "prompt": "En relación a la libre designación..."
+    },
+    {
+      "answers": [
+        "Cincuenta.",
+        "Setenta y cinco,",
+        "Cien.",
+        "La Ley no establece ningún límite de representantes."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 175,
+      "prompt": "Según el artículo 39 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público (EBEP), ¿cuál es el número máximo de representantes que puede tener una Junta de Personal?"
+    },
+    {
+      "answers": [
+        "Pueden acceder a todos los empleos públicos, sin excepción, en igualdad de condiciones que los españoles, en virtud de la libre circulación de trabajadores.",
+        "No podrán acceder, entre otros, a los empleos públicos que impliquen una participación en la salvaguardia de los intereses de la Administración.",
+        "Podrán acceder a todos los cuerpos y escalas de funcionarios, salvo a aquellos que exijan titulación universitaria para el ingreso.",
+        "Podrán acceder a todos los empleos públicos, pero solo cuando tengan cumplida la edad de veintiún años."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 176,
+      "prompt": "Según el artículo 57 del EBEP, los nacionales de otros Estados miembros de la Unión Europea:"
+    },
+    {
+      "answers": [
+        "No, en ningún caso.",
+        "Sí, pero sólo en virtud de ley y con carácter excepcional.",
+        "Debe aplicarse slempre como fase preliminar para valorar la antiguedad en la Administración de los funcionarios interinos.",
+        "La Administración convocante está facultada para elegir entre los sistemas de oposición o de concurso en cualquier proceso selectivo de funcionarios de carrera."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 177,
+      "prompt": "Según el. artículo 61 del EBEP, ¿puede aplicarse el sistema de concurso en los procesos selectivos que den acceso a la condición de funcionario?"
+    },
+    {
+      "answers": [
+        "Durante los dos primeros años de la excedencia por cuidado de un hijo.",
+        "Durante los seis primeros meses de la excedencia por razón de violencia de género.",
+        "Durante los tres primeros meses de la excedencia voluntaria por agrupación familiar.",
+        "Durante los seis primeros meses en situación de suspensión de funciones."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 178,
+      "prompt": "Según lo dispuesto en los artículos 89 y 90 del EBEP, indique cuál de las siguientes circunstancias un funcionario NO tendrá derecho a la reserva de su puesto de trabajo:"
+    },
+    {
+      "answers": [
+        "Por procedimiento sumario con audiencia al interesado.",
+        "Mediante la instrucción de expediente disciplinario, que tendrá carácter y preceptivo.",
+        "Por procedimiento abreviado, sin audiencia al interesado.",
+        "Por procedimiento sumario, durante el transcurso de la suspensión provisional de funciones."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 179,
+      "prompt": "Según el artículo 98 del EBEP ¿cómo se impondrán las sanciones por la comisión de faltas leves?"
+    },
+    {
+      "answers": [
+        "Los titulares de los organos directivos de la política de recursos humanos de la administracion general del estado, de las administraciones de las comunidades autónomas, administracion local y de las ciudades de Ceuta y Melilla.",
+        "Los representante de la administracion local designados por la Federacion española de municipios y provincias.",
+        "Las respuestas a y b son correctas.",
+        "Solo b es correcta."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 180,
+      "prompt": "Forman parte de la comisión de coordinación del empleo público:"
+    },
+    {
+      "answers": [
+        "Administración General del Estado.",
+        "Universidades tanto públicas como privadas.",
+        "Servicio Estatal de Correos.",
+        "La adminstración de las CCAA, ciudades de Ceuta y Melilla y a las Universidades Publicas y Privadas."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 181,
+      "prompt": "Este estatuto se aplica al personal funcionario y en lo que proceda al laboral al servicio de:"
+    },
+    {
+      "answers": [
+        "Sustitución permanente de titulares.",
+        "Ejecución de programas de carácter temporal.",
+        "Exceso o acumulación de tareas por el plazo máximo de seis meses dentro de un periodo de 18 meses.",
+        "b y c son correctas."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 182,
+      "prompt": "Para el nombramiento de interinos es necesario que se de alguna de estas circunstancias:"
+    },
+    {
+      "answers": [
+        "Estas plazas cublertas por interinos deberan incluirse en la oferta de empleo correspondiente al ejercicio de su nombramiento de manera obligatoria.",
+        "Estas plazas no serán convocadas en la oferta de empleo público.",
+        "Se incluirán en la oferta de empleo público del mismo ejercicio del nombramiento o bien en el siguiente en todos lo casos.",
+        "Si se dedice amortizar el puesto no será obligado convocar dichas plazas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 183,
+      "prompt": "Cuando existan plazas vacantes y no sea posible su cobertura por funcionarios de carrera:"
+    },
+    {
+      "answers": [
+        "El gobierno.",
+        "Las leyes de función pública de desarrollo de dicho estatuto.",
+        "Los respectivos órganos de gobierno.",
+        "Todas son correctas."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 184,
+      "prompt": "El número máximo de personal eventual de que podrán disponer los respectivos órganos de gobierno lo determinarán:"
+    },
+    {
+      "answers": [
+        "Demerito.",
+        "Apercibimiento.",
+        "Supensión firme de funciones y traslado forzoso.",
+        "Todas son correctas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 185,
+      "prompt": "Las sanciones disciplinarias podrán consistir en:"
+    },
+    {
+      "answers": [
+        "3 años.",
+        "6 meses.",
+        "2 años.",
+        "1 año."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 186,
+      "prompt": "Las sanciones por faltas leves prescriben a:"
+    },
+    {
+      "answers": [
+        "1 mes.",
+        "16 semanas.",
+        "15 días naturales.",
+        "15 días hábiles."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 187,
+      "prompt": "El permiso de paternidad tendrá una duración de:"
+    },
+    {
+      "answers": [
+        "Básicas más complementarias.",
+        "Básicas.",
+        "Sueldo del subgrupo o grupo.",
+        "Básicas más complementarias menos trienios."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 188,
+      "prompt": "Las retribuciones de los funcionarios en práticas serán como mínimo:"
+    },
+    {
+      "answers": [
+        "A la reincorporación de su titular.",
+        "Al cese de la autoridad que nombró.",
+        "Evaluación del desempeño.",
+        "Todas son correctas."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 189,
+      "prompt": "La continuidad en un puesto de trabajo obtenido por concurso quedará vinculada a:"
+    },
+    {
+      "answers": [
+        "Consecutivos y no consecutivos, si se cumplen los requisititos pertinentes.",
+        "Consecutivos con carácter general, salvo supuestos excepcionales.",
+        "Exclusivamente consecutivos.",
+        "Ninguna es correcta."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 190,
+      "prompt": "En la carrera horizontal de los funcionarios de carrera, los ascensos serán:"
+    },
+    {
+      "answers": [
+        "Cada dos años, si no media denuncia expresa de una de las partes.",
+        "Cada sels meses, si no media denuncia expresa de una de las partes,",
+        "Cada año, si no media denuncia expresa de una de las partes.",
+        "Cada tres años, si no media denuncia expresa de una de las partes."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 191,
+      "prompt": "Salvo acuerdo en contrario, los pactos y acuerdos se prorrogarán:"
+    },
+    {
+      "answers": [
+        "Entra en vigor en el plazo de un mes a partir de su publicación en el BOE.",
+        "Lo establecido en el Cap II del Título II y el Cap III del título III ( excepto el art 25.2), producirá efectos a partir de la entrada en vigor de las leyes de función Pública que se dicten en desarrollo del EBEP.",
+        "Lo establecido en el Cap III del Título V producirá efectos a partir de la entrada en vigor de las leyes de función pública que se dicten en desarrollo del EBEP.",
+        "Todas son ciertas."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 192,
+      "prompt": "En cuanto a la entrada en vigor del EBEP...."
+    },
+    {
+      "answers": [
+        "No perciben trienios",
+        "A partir leyes desarrollo del EBEP.",
+        "A partir la entrada en vigor del EBEP.",
+        "Ninguna es correcta."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 193,
+      "prompt": "¿A partir de qué fecha perciben los interinos los trienios?"
+    },
+    {
+      "answers": [
+        "Personal Laboral, Personal Funcionario.",
+        "Funcionarios de Carrera, Personal Laboral, Personal Eventual.",
+        "Funcionario de Carrera, Personal Funcionario, Personal Eventual, Funcionario de Carrera.",
+        "Ninguna respuesta es correcta."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 194,
+      "prompt": "Clases de Empleados Públicos:"
+    },
+    {
+      "answers": [
+        "Los funcionarios de Carrera",
+        "Las Administraciones Públicas.",
+        "A y B son correctas,",
+        "Ninguna respuesta es correcta."
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 195,
+      "prompt": "A los funcionarios interinos les será aplicable, en cuanto sea adecuado a la naturaleza de su condición, el régimen general de..."
+    },
+    {
+      "answers": [
+        "Mérito y Capacidad.",
+        "Igualdad, Mérito y Capacidad.",
+        "Igualdad, Mérito, Capacidad y Publicidad.",
+        "Criterios de Idoneidad, Capacidad y Mérito."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 196,
+      "prompt": "¿A qué principios atenderá la designación del personal directivo?"
+    },
+    {
+      "answers": [
+        "A la inamovllidad en la condición de funcionario interino.",
+        "A las vacaciones, descansos permisos y licencias.",
+        "A la formación profesional continua y a la actualización de sus conocimientos.",
+        "A la libertad de expresión."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 197,
+      "prompt": "Derechos individuales de los empleados públicos..."
+    },
+    {
+      "answers": [
+        "En el acceso desde un cuerpo o escala de un Subgrupo, o Grupo de clasificación profesional en el supuesto de que éste no tenga Subgrupo, a otro superior, de acuerdo con lo establecido en el artículo 18.",
+        "El acceso a cuerpos o escalas del mismo Subgrupo profesional, de acuerdo con lo dispuesto en el artículo 18.",
+        "Ascenso en la estructura de puestos de trabajo por los procedimientodse provisión establecidos en el Capítulo I del Título V de este Estatuto.",
+        "Ninguna Respuesta es correcta."
+      ],
+      "correct": {
+        "index": 3
+      },
+      "number": 198,
+      "prompt": "La promoción interna vertical consiste en:"
+    },
+    {
+      "answers": [
+        "Legalidad y transparencia.",
+        "Buena fe negocial y cobertura asistencial.",
+        "Obligatoriedad y publicidad.",
+        "A y C son verdaderas."
+      ],
+      "correct": {
+        "index": 1
+      },
+      "number": 199,
+      "prompt": "La negociación colectiva de las condiciones de trabajo de los funcionarios públicos estará sujeta a ... (Señalar la falsa)"
+    },
+    {
+      "answers": [
+        "3 años.",
+        "5 años.",
+        "6 años.",
+        "2 años."
+      ],
+      "correct": {
+        "index": 2
+      },
+      "number": 200,
+      "prompt": "La suspensión firme por sanción disciplinaria no podrá exceder de..."
     }
   ],
   "title": "AGE",
